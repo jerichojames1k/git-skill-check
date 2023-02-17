@@ -11,14 +11,14 @@ In this chapter we will check your skill to merge.
 
 ① What is your favorite food?
 
-Sample Answer) I like pizza!
+A.My favorite food is fried chicken.
 
 ② What is your favorite movie?
 
-Sample Answer) I like "My Neighbor Totoro."
+A.My favorite movie is Spider Man.
 
 ③ What is your favorite proverb?
 
-Sample Answer) Done is beter than perfect.
+A.My favorite proverb is "Trust in the Lord with all your heart, and do not rely on your own understanding".
 
 When finished pushing to your `chapter-2` branch, checkout branch `chapter-3` for the next check.
