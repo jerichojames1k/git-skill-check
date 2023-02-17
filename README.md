@@ -11,6 +11,6 @@ In this chapter we will check your skill to checkkout a new banch and make a pul
 
 ① How was the skill check (I would be grateful for your opinion).
 
-A. 
+A. The skill check was very challenging.I was challenged from it and I was able to do it with perseverance and willingness to fight or answer challenges.
 
 This is the end. Thank you for your cooporation:tada:
