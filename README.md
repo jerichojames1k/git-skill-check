@@ -9,14 +9,14 @@ Answer to the questions and push your answer
 
 ① What is your favorite food?
 
-A.
+A.My favorite food is fried chicken.
 
 ② What is your favorite movie?
 
-A.
+A.My favorite movie is Spider Man.
 
 ③ What is your favorite proverb?
 
-A.
+A.My favorite proverb is "Trust in the Lord with all your heart, and do not rely on your own understanding".
 
 After you have pushed your answer. Checkout to branch `chapter-2` for the skill check.
